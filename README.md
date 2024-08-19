@@ -1,6 +1,6 @@
 ## 🚀 Nuevo Laboratorio de Pivoting en Metasploit! 🔐
 
-¿Quieres aprender a realizar pivoting con Metasploit y descubrir cómo moverte entre redes internas comprometidas? 💻✨
+¿Quieres aprender a realizar pivoting con Metasploit y descubrir cómo moverte entre redes internas y comprometerlas? 💻✨
 
 He creado una guía detallada que te muestra, paso a paso, cómo configurar un laboratorio para practicar esta técnica avanzada. Con la ayuda de DockerLabs y la máquina LittlePivoting, el despliegue de las máquinas y redes internas es rápido, eficiente, y requiere pocos recursos. 🛠️🐳
 
@@ -14,8 +14,6 @@ El objetivo final es alcanzar un sistema protegido en la última red, utilizando
 
 ¡Todo lo que necesitas para llevar tus habilidades de pentesting al siguiente nivel! 🔥
 
-@📄 Descarga la guía en PDF aquí 
-
-#Cybersecurity #Pentesting #Metasploit #DockerLabs #InfoSec #Pivoting #EthicalHacking
+📄 Descarga la guía en PDF aquí
 
 ¡No te lo pierdas y mejora tus habilidades! 💪🙌
